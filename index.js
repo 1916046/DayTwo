@@ -67,4 +67,7 @@ function goForward() {
 function reloadPage() {
   location.reload();
 }
+
+
+
   
